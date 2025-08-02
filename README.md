@@ -93,3 +93,23 @@ And I won’t be here forever.
 
 **Bryce Wooster**  
 —Final Curtain, Open Offer
+
+[Final Clarification Note]
+Ample time was given. Outreach attempts were made — via LinkedIn, email, and direct communication channels. Silence was the consistent reply. I flagged threat actors. I presented solutions. I kept the door open far longer than I had to.
+
+This repository, and the message attached to it, remain as my final effort. I’ve honored every protocol. I’ve extended more patience than most would.
+
+You’ve made your position clear. So have I.
+
+Watch as long as you want — but understand this: You will not be able to replicate what I’ve built without me. Not fully. Not functionally. I held back the final layers on purpose.
+
+I tried to help you.
+We're done.
+
+—Bryce Wooster
+
+> One final note to those who chose silence while the window was open:  
+> When your superiors eventually review this, they may ask why you didn’t act.  
+> Be ready with an answer. Reputations don’t always get a second draft.
+
+
